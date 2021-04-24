@@ -1,0 +1,33 @@
+body {background: rgb(231,232,93);
+background: radial-gradient(circle, rgba(231,232,93,1) 0%, rgba(237,155,241,1) 39%, rgba(109,196,230,1) 89%);}
+
+
+hr
+{
+
+     border-style: none;
+     border-top-style: dotted ;
+    border-width: 8px;
+     width: 7% ;
+     border-color: #e900c9 ;
+     background-color: transparent;
+
+
+
+    }
+
+    h1
+    {
+    color :   #3e104d;
+
+  }
+
+    h2
+    {
+color :   #3e104d;
+}
+h3   {
+  color :   #3e104d;
+  }
+
+  
