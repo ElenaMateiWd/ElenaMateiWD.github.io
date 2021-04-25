@@ -15,19 +15,22 @@ hr
 
 
     }
-
-    h1
+   h1
     {
-    color :   #3e104d;
-
-  }
+      font-family: cursive, Lucida Handwriting ;
+    color :   #0000FF;
+    }
 
     h2
     {
-color :   #3e104d;
-}
-h3   {
-  color :   #3e104d;
+      font-family: sans-serif, halvetica ;
+color :  #CD5C5C;
+     }
+     h3
+     {
+       font-family: sans-serif, halvetica ;
+  color :#CD5C5C;
   }
+
 
   
